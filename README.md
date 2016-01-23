@@ -2,5 +2,4 @@
 
 Hi everyone!
 
-Will here.
-If you notice this notice, you will notice that this notice is not worth noticing.
+Will here. I thought it about time to get to grips with git.
